@@ -1,0 +1,3 @@
+pvr_password="cmD/Y/obrCTBk5AuQ6kQiA==381c041067ce9b6118c578b5f0af74f8"
+
+pvr_app_password="oKBgHjeXQwXs32lUSWfV4Q==213c16bd726776102132dc507eee3b79"
